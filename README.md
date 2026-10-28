@@ -51,4 +51,4 @@ GitHub: "@superi0x" (https://github.com/superi0x)
 
 ---
 
-This repository evolves as I learn, build, and explore new concepts in software development.E-CLASSROOM
+This repository evolves as I learn, build, and explore new concepts in software development.
