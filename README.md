@@ -1,4 +1,4 @@
-# CODCode Classroom
+# Code Classroom
 
 A structured collection of my programming practice, problem-solving exercises, and web development projects as I build a strong foundation in software engineering.
 
